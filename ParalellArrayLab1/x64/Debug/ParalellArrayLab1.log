@@ -1,0 +1,4 @@
+﻿  ParalellArrayLab1.cpp
+C:\Users\javi\source\repos\ParalellArrayLab1\ParalellArrayLab1\ParalellArrayLab1.cpp(22,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\javi\source\repos\ParalellArrayLab1\ParalellArrayLab1\ParalellArrayLab1.cpp(23,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ParalellArrayLab1.vcxproj -> C:\Users\javi\source\repos\ParalellArrayLab1\x64\Debug\ParalellArrayLab1.exe
